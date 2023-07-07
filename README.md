@@ -12,7 +12,7 @@ This assignment is done  Asif Raja
 - [Using Terraform code to Deploy EC2 instance in public subnet ](#using-terraform-to-deploy-EC2-instance-in-public-subnet)
 - [Using GitHub action to create docker images and  push them to Amzon ECR](#using-github-action-for-automation)
 
-
+..
 
 ## Using Terraform to EC2 instance in public subnet. 
 
