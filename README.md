@@ -2,7 +2,7 @@
 # Welcome to the README file for CLO835 Assignment 1!
 
 This assignment is done  Asif Raja
-
+.
 ## Assignment 1 Title:
 
 ## Create Dockerfile, build docker image and deploy docker container on Amazon Linux EC2  
